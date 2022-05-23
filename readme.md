@@ -38,8 +38,8 @@ React Native utilizando um UI KIT.
 
 * Login Modo Claro/Light
 
-![Light](screenshots/Image-Light.JPG)
+<img src="screenshots/Image-Light.jpg" alt="Imagem Login Claro" width="300"/>
 
 * Login Modo Escuro/Dark
 
-![Dark](screenshots/Image-Dark.JPG)
+<img src="screenshots/Image-Dark.jpg" alt="Imagem Login Escuro" width="300"/>
